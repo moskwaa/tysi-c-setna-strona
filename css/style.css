@@ -258,5 +258,11 @@ input[type="submit"], [type="reset"] {
     border: 1px solid #e00986;
 } 
  
-
-
+ 
+.gallery-section img {
+    object-fit: cover;
+}
+.gallery-image {    
+    margin: 0px auto;  
+    padding: 40px 60px; 
+} 
