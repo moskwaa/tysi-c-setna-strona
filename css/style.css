@@ -12,7 +12,8 @@ body{
     box-sizing:border-box;
 }
 header{
-    background-image: radial-gradient(circle, #72d6c9, #54d1ed, #7ac5ff, #bcb2fe, #f29cd9);     height: 80px; 
+    background-image: radial-gradient(circle, #72d6c9, #54d1ed, #7ac5ff, #bcb2fe, #f29cd9);    
+    height: 80px; 
 }
 .clear {     
     clear: both; 
